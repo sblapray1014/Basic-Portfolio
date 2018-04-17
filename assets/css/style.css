@@ -1,0 +1,57 @@
+body {
+margin: 0;
+background-image: url("C:\Users\canyo\dev\uofu\UTAHSAN201804FSF2-Class-Repository-FSF\Basic-Portfolio\assets\images\dust_scratches.png");
+}
+
+header {
+background-color: #ffffff;
+padding: 0px;
+margin-bottom: 25px;
+margin-right: 125px;
+margin-left: 175px;
+}
+
+.box {
+    background-color: #ffffff;
+    position: relative;
+    left: 180px;
+    float: left;
+    width: 960px;
+    padding: 20px;
+    }
+    
+    .menu {
+    padding: 10px;
+    font-size: 15px;
+    display: inline;
+    float: right;
+    word-spacing: 10px;
+
+    }
+
+.name {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    width: 270px;
+    left: 300px;
+    height: fit-content;
+    float: left;
+    padding: 5px;
+    box-sizing: border-box;
+    float: left;
+}
+
+h1 {
+font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+h2 {
+font-family: 'Georgia', Times, 'Times New Roman', serif;   
+}
+
+p {
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
+
